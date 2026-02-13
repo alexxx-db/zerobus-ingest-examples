@@ -1,19 +1,14 @@
-# REPO NAME 
-
-```
-Placeholder
-
-Fill here a description at a functional level - what is this content doing
-```
-
-## Video Overview
-
-Include a GIF overview of what your project does. Use a service like Quicktime, Zoom or Loom to create the video, then convert to a GIF.
+# Zerobus Ingest Examples
 
 
-## Installation
+Welcome to the world of streamlined ingestion!
+In this repo, you will find examples and demos of Zerobus Ingest, a push-based API that streamlines streaming ingestion into the Lakehouse.
 
-Include details on how to use and install this content. 
+* Learn more [here](https://docs.databricks.com/aws/en/ingestion/zerobus-overview)
+
+## Demos
+* [Data Drifter Regatta ⛵](./data_drifter)
+
 
 ## How to get help
 
