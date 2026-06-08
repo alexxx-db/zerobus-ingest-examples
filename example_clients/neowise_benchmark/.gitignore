@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# setuptools build output for the neowise_native C extension
+build/
+dist/
+*.so
+
+# Editor / OS / IDE integrations
+.idea/
+.vscode/
+.DS_Store
+.bazelbsp/
+pyrefly.toml
+
+# Local dataset cache (parquet downloaded from the public NEOWISE bucket)
+/tmp/neowise/
